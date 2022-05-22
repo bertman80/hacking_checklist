@@ -1,6 +1,6 @@
 # Hacking Checklist
 This checklist is made in the free [Joplin](https://joplinapp.org) tool. You can use this as a guid to solve the [HackTheBox](https://www.hackthebox.com) machines
-
+This version just contains basic checks. It needs to be updated, do you have suggestions plz let me known.
 ## Import
 Import hackthebox.jex for every HackTheBox project.
 Start Joplin
