@@ -12,6 +12,9 @@ With a second import he will make a notebook 'hackthebox (1)'. Just drag the 'ma
 
 ![Notebooks](https://trebnie.nl/_github/joplin_notebooks.png)
 
+## Synchronise
+Joplin can be easily synced with OneDrive, Nextcloud, WebDAV, Dropbox, S3, Joplin Server or Joplin Cloud. This means that you can use Joplin on multiple devices with the same data.
+
 ## Info
 If you use this checklist and/or you hve suggestions please let me known.
 
