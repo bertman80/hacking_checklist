@@ -1,6 +1,6 @@
 # Hacking Checklist
 This checklist is made in the free [Joplin](https://joplinapp.org) tool. You can use this as a guid to solve the [HackTheBox](https://www.hackthebox.com) machines
-This version just contains basic checks. It needs to be updated, do you have suggestions plz let me known.
+This version just contains basic checks. It needs to be updated, do you have suggestions plz let me know.
 ## Import
 Import hackthebox.jex for every HackTheBox project.
 Start Joplin
@@ -16,7 +16,7 @@ With a second import he will make a notebook 'hackthebox (1)'. Just drag the 'ma
 Joplin can be easily synced with OneDrive, Nextcloud, WebDAV, Dropbox, S3, Joplin Server or Joplin Cloud. This means that you can use Joplin on multiple devices with the same data.
 
 ## Info
-If you use this checklist and/or you hve suggestions please let me known.
+If you use this checklist and/or you hve suggestions please let me know.
 
 ## Screenshots
 ![Basic info](https://trebnie.nl/_github/joplin_basic.png)
