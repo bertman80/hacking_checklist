@@ -1,11 +1,11 @@
 # Hacking Checklist
-This checklist is made in the free [Joplin](https://joplinapp.org) tool. You can use this as a guid to solve the [HackTheBox](https://www.hackthebox.com) machines
+This checklist is made in the free [Joplin](https://joplinapp.org) tool. You can use this as a guid to solve for example the [HackTheBox](https://www.hackthebox.com) machines
 This version just contains basic checks. It needs to be updated, do you have suggestions plz let me know.
 ## Import
-Import hackthebox.jex for every HackTheBox project.
+Import hack-checklist.jex for every HackTheBox project.
 Start Joplin
 File \ Import JEX
-Select 'hackthebox.jex'
+Select 'hack-checklist.jex'
 Rename (edit) 'machinename' in the name of the HackTheBox machine
 
 With a second import he will make a notebook 'hackthebox (1)'. Just drag the 'machinename' notebook in the already existing hackthebox.
